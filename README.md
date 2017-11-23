@@ -1,6 +1,6 @@
 # Crytpo tracking
 
-A simple table to display your current portfolio of crypto holdings.
+A simple table to display your current HODL portfolio.
 
 ## TODO
 
