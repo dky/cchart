@@ -1,7 +1,13 @@
-# Crytpo tracking
+# Crypto Table
 
-A simple table to display your current HODL portfolio.
+A simple table to display your current portfolio. Built so I could learn how to make API calls with AJAX and learn JavaScript.
 
-## TODO
+## TO-DO
 
-- Refactor all this so we aren't repeating ourselves and hard-coding everything!
+- DRY up code and stop hard-coding everything.
+- Figure out how to use React.
+- Consolidate API call to a single call vs (n) separate calls.
+
+## Feature/Enhancements
+
+- Add marketcap value.
